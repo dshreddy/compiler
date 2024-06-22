@@ -1,5 +1,3 @@
-Here's a polished and comprehensive README for your compiler project:
-
 # SIL Compiler
 
 This repository contains a compiler written in C++ for a C-like Simple Integer Language (SIL) using Flex and Bison. This compiler supports various control flow structures, including conditional statements, loops, and their nested forms.
@@ -53,8 +51,8 @@ end
 
 1. **Clone the Repository:**
     ```sh
-    git clone https://github.com/yourusername/sil-compiler.git
-    cd sil-compiler
+    git clone https://github.com/dshreddy/compiler/
+    cd compiler
     ```
 
 2. **Build the Compiler:**
