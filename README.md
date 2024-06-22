@@ -1,7 +1,3 @@
-# Compiler Lab Jan-May 2024
+# Compiler
 
-Name : Donthuboyina Sai Hemanth Reddy
-
-Roll Number : 112101014
-
-Test 2 tag : test-2
+This repository contains a compiler written in C++ for a C like Simple Integer Language (SIL) using flex and bison.
