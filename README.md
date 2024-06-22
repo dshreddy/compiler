@@ -52,20 +52,17 @@ end
 1. **Clone the Repository:**
     ```sh
     git clone https://github.com/dshreddy/compiler/
-    cd compiler
+    cd compiler/compiler
     ```
 
 2. **Build the Compiler:**
     ```sh
-    mkdir build
-    cd build
-    cmake ..
     make
     ```
 
 3. **Run the Compiler:**
     ```sh
-    ./sil_compiler path/to/your_program.sil
+    ./bin/compiler.out <path_to_your_SIL_program>.sil
     ```
 
 ## Future Developments
